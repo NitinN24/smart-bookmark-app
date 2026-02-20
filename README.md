@@ -23,6 +23,12 @@ A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS.
 
 ---
 
+## Architecture Diagram
+
+<img width="1934" height="793" alt="diagram-export-2-20-2026-6_04_11-PM" src="https://github.com/user-attachments/assets/da7f79d9-b1fb-4fed-a02c-4eb54ebd3523" />
+
+---
+
 ## Problems I Ran Into & How I Solved Them
 
 ### 1. Bookmarks not appearing after adding
